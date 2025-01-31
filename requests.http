@@ -14,7 +14,7 @@ Content-Type: application/json
 
 {
   "name": "Alex",
-  "techStack": "kbd, databases, q"
+  "techStack": "sql, databases, java, spring"
 }
 
 ###
